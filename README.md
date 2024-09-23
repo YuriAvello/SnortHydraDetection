@@ -31,6 +31,82 @@ Work in progress <br/>
 <img src="SnortHydraDetection/01_snortstartscript.png" height="80%" width="80%" alt="Script to start Snort"/>
 <br />
 
+Work in progress <br/>
+ 
+<img src="SnortHydraDetection/02_users.png" height="20%" width="20%" alt="Text file with usernames"/>
+<br />
+
+Work in progress <br/>
+ 
+<img src="SnortHydraDetection/03_password.png" height="20%" width="20%" alt="Text file with passwords"/>
+<br />
+
+Work in progress <br/>
+ 
+<img src="SnortHydraDetection/04_hydratest.png" height="80%" width="80%" alt="Hydra test without Snort started"/>
+<br />
+
+Work in progress <br/>
+ 
+<img src="SnortHydraDetection/05_hydratest20threads.png" height="80%" width="80%" alt="Test Hydra with -T 20"/>
+<br />
+
+Work in progress <br/>
+ 
+<img src="SnortHydraDetection/06_snortruleHydra.png" height="80%" width="80%" alt="Snort Local Rule"/>
+<br />
+
+Work in progress <br/>
+ 
+<img src="SnortHydraDetection/07_hydradetection1.png" height="80%" width="80%" alt="First Snort Detection"/>
+<br />
+
+Work in progress <br/>
+ 
+<img src="SnortHydraDetection/08_hydradetection2.png" height="80%" width="80%" alt="Snort second detection"/>
+<br />
+
+Work in progress <br/>
+ 
+<img src="SnortHydraDetection/09_hydradetection3.png" height="80%" width="80%" alt="Snort False Positives"/>
+<br />
+
+Work in progress <br/>
+ 
+<img src="SnortHydraDetection/10_hydradetection4.png" height="80%" width="80%" alt="Snort fourth detection"/>
+<br />
+
+Work in progress <br/>
+ 
+<img src="SnortHydraDetection/11_hydraslow1.png" height="80%" width="80%" alt="Test slow hydra 1"/>
+<br />
+
+Work in progress <br/>
+ 
+<img src="SnortHydraDetection/12_hydraslow2.png" height="80%" width="80%" alt="Test Slow Hydra 2"/>
+<br />
+
+Work in progress <br/>
+ 
+<img src="SnortHydraDetection/13_hydradetection5.png" height="80%" width="80%" alt="Snort Fifth Detection"/>
+<br />
+
+Work in progress <br/>
+ 
+<img src="SnortHydraDetection/14_hydraslow3.png" height="80%" width="80%" alt="Test Slow Hydra 3"/>
+<br />
+
+Work in progress <br/>
+ 
+<img src="SnortHydraDetection/15_hydrafaildetection.png" height="80%" width="80%" alt="Snort Failed Detection"/>
+<br />
+
+Work in progress <br/>
+ 
+<img src="SnortHydraDetection/16_hydradetection6.png" height="80%" width="80%" alt="Snort sixth detection"/>
+<br />
+
+
  <!--
 
 
