@@ -27,10 +27,11 @@ This project is the one that I presented as a final project for my degree in MSc
 
 <p align="center">
 Work in progress <br/>
-  <!--
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+<img src="SnortHydraDetection/01_snortstartscript.png" height="80%" width="80%" alt="Script to start Snort"/>
 <br />
 
+ <!--
 
 
  ```diff
