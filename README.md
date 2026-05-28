@@ -7,9 +7,13 @@
 <h2>Overview</h2>
 <p align="left">
 This project is the one that I presented as a final project for my degree in MSc Cyber Security.<br />
+ 
 Slow-rate brute force attacks represent a genuine challenge for network intrusion detection systems: by reducing connection frequency, an attacker can operate below the threshold of signature-based rules while still systematically enumerating credentials. This project investigates that evasion technique in a controlled lab environment, using Hydra as the attack tool and Snort 2.9 as the IDS.<br />
+
 The core research question was simple: can a custom Snort local rule reliably detect a Hydra SSH brute force attack — and at what point does slowing the attack rate allow it to evade detection entirely?<br />
+
 Three virtual machines were configured to simulate a realistic scenario: an Ubuntu target running SSH and Snort, a Kali attacker running Hydra, and a second Kali machine generating legitimate SSH traffic to test for false positives. The experiment iterated through multiple rule configurations, measuring detection rate against attack speed and false positive rate — arriving at a threshold-based rule that balances sensitivity with operational viability.<br />
+
 The findings highlight a fundamental limitation of static threshold detection against low-and-slow attacks, and point toward why layered defences — combining IDS with firewall rules, IPS mode, and community rulesets — are essential in production environments.<br />
 
 <h2>Languages and Utilities Used</h2>
